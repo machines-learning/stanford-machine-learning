@@ -1,2 +1,2 @@
-# standford-machine-learning
-# standford-machine-learning
+# stanford-machine-learning
+## https://www.coursera.org/learn/machine-learning
